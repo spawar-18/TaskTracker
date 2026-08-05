@@ -14,7 +14,6 @@ Designed with scalability, clean architecture, and great user experience in mind
 * User Registration & Login
 * Protected Routes
 * Profile Management
-* Avatar Upload
 
 ### Task Management
 

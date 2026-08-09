@@ -10,7 +10,7 @@ Designed with scalability, clean architecture, and great user experience in mind
 
 ### Authentication
 
-* Secure JWT Authentication
+* Secure JWT Authentication--will try to implement
 * User Registration & Login
 * Protected Routes
 * Profile Management

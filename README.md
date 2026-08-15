@@ -3,9 +3,7 @@
 A modern full-stack task management application built with the **MERN Stack** that helps individuals and teams organize projects, manage tasks, track productivity, and collaborate in real time.
 
 Designed with scalability, clean architecture, and great user experience in mind, TaskTracker combines powerful project management features with a responsive interface.
-
 ---
-
 ## ✨ Features
 
 ### Authentication

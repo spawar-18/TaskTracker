@@ -32,7 +32,7 @@ Designed with scalability, clean architecture, and great user experience in mind
 
 ### Collaboration
 
-* Real-time Task Updates
+* Realtime Task Updates
 * Comments
 * Notifications
 * Activity Timeline
